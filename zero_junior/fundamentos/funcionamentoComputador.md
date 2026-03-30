@@ -1,1 +1,0 @@
-# Como Funciona um Computador

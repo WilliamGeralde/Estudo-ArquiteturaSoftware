@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zero_junior/fundamentos/funcionamentoComputador.md",
+                "file": "zero_junior/fundamentos/Fundamentos.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "funcionamentoComputador"
+              "title": "Fundamentos"
             }
           }
         ]
@@ -185,16 +185,18 @@
   },
   "active": "e086fcd74ddeef22",
   "lastOpenFiles": [
-    "zero_junior/fundamentos/fundamentos.md",
-    "inicioEstudo.md",
-    "zero_junior/zero_junior.md",
-    "zero_junior/escolha_linguagem/escolhaLinguagem.md",
+    "zero_junior/fundamentos/Como Funciona um Computador.md",
+    "zero_junior/fundamentos/Fundamentos.md",
+    "zero_junior/escolha_linguagem/Escolha de Linguagem.md",
+    "zero_junior/Zero ao Júnior.md",
+    "Roadmap de Arquitetura de Software.md",
+    "junior_senior/Júnior ao Sênior.md",
+    "senior_arquit/Sênior ao Arquiteto.md",
+    "ROADMAP - ARQUITETURA.pdf",
     "zero_junior/escolha_linguagem",
     "zero_junior/escolhaLinguagem.md",
-    "zero_junior/fundamentos/funcionamentoComputador.md",
     "zero_junior/zero_juniot.md",
     "zero_junior/fundamentos.md",
-    "ROADMAP - ARQUITETURA.pdf",
     "Não confirmado 459120.crdownload",
     "zero_junior/fundamentos",
     "senior_arquit",

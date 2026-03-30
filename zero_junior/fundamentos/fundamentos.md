@@ -1,6 +1,6 @@
-## Fundamentos
+# Fundamentos
 
-- [[funcionamentoComputador|Como funciona um computador]]
+- [[Como Funciona um Computador|Como funciona um computador]]
 - [[programasMemoria|Como os programas rodam na memória]]
 - [[processadores|Como os processadores funcionam]]
 - [[sistemasOperacionais|Como os sistemas operacionais funcionam]]
