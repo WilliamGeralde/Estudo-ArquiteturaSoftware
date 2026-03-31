@@ -82,7 +82,7 @@ Consequências importantes:
 
 ## 5. Comparação direta (tabela objetiva)
 
-| Aspecto | Compilado (AOT p/ nativo) | Interpretado/VM (sem JIT) | VM com JIT |
+| **Aspecto** | **Compilado (AOT p/ nativo)** | **Interpretado/VM (sem JIT)** | **VM com JIT** |
 |---------|---------------------------|-----------------------------|------------|
 | Tradução para máquina | Antes de rodar | Durante a execução (ou bytecode) | Parte antes (bytecode) + parte durante (JIT) |
 | Desempenho típico | Alto e previsível | Menor (mais overhead) | Pode ficar alto após warm-up |
