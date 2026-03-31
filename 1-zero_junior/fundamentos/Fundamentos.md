@@ -8,3 +8,9 @@ Nesse tópico será estudado os fundamentos iniciais da computação. Desde o fu
 - [[Como os sistemas operacionais funcionam]]
 - [[Diferença entre linguagem compilada e interpretada]]
 - [[Linux (Ubuntu ou Debian)]]
+
+# Resumos de Vídeos
+
+- [[CS50 - "Hardware" (2017)]]
+- [[CS50 - "Programmig Languages" (2017)]]
+- [[Curso de Linux - Curso em Vídeo]]

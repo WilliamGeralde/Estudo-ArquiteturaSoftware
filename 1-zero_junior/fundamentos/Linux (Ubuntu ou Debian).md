@@ -1,0 +1,2 @@
+# Linux (Ubuntu ou Debian)
+
