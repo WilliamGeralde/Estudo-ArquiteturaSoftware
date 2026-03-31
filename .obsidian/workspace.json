@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-zero_junior/fundamentos/Como os processadores funcionam.md",
+                "file": "1-zero_junior/fundamentos/Como os sistemas operacionais funcionam.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Como os processadores funcionam"
+              "title": "Como os sistemas operacionais funcionam"
             }
           }
         ]
@@ -185,11 +185,17 @@
   },
   "active": "e086fcd74ddeef22",
   "lastOpenFiles": [
-    "1-zero_junior/fundamentos/Como os programas rodam na memória.md",
-    "1-zero_junior/fundamentos/Como os processadores funcionam.md",
-    "1-zero_junior/fundamentos/Como Funciona um Computador.md",
+    "1-zero_junior/fundamentos/Diferença entre linguagem compilada e interpretada.md",
     "1-zero_junior/fundamentos/Fundamentos.md",
     "1-zero_junior/Zero ao Júnior.md",
+    "diagram.png",
+    "1-zero_junior/fundamentos/Como os sistemas operacionais funcionam.md",
+    "Sem título.canvas",
+    "Pasted image 20260331154224.png",
+    "Diagram.svg",
+    "1-zero_junior/fundamentos/Como os processadores funcionam.md",
+    "1-zero_junior/fundamentos/Como os programas rodam na memória.md",
+    "1-zero_junior/fundamentos/Como Funciona um Computador.md",
     "Roadmap de Arquitetura de Software.md",
     "1-zero_junior/escolha_linguagem/Escolha de Linguagem.md",
     "3-senior_arquit/Sênior ao Arquiteto.md",
