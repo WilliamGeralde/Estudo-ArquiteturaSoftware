@@ -1,5 +1,7 @@
 # Como Funciona um Computador
+[[Fundamentos|<- Voltar para Fundamentos]] | [[Como os programas rodam na memória|Próximo tópico ->]]
 
+---
 ## 1. O que é um computador?
 
 De forma bem direta:
@@ -11,6 +13,8 @@ De forma bem direta:
   - gera **saídas** (output).
 
 Ele é programável: você pode mudar o programa e ele passa a fazer coisas diferentes (um editor de texto, um jogo, um servidor, etc.), sem trocar o hardware.
+
+---
 
 ## 2. Arquitetura Básica (modelo Von Neumann)
 
@@ -41,6 +45,8 @@ Quase todos os computadores modernos seguem uma variação da **arquitetura de V
     - **sinais de controle** (barramento de controle).
 
 A ideia central: **programas e dados ficam juntos na memória**, e a CPU busca instruções da memória, uma por vez (ou algumas por vez, em arquiteturas modernas), executa e repete isso em loop.
+
+---
 
 ## 3. Principais componentes de hardware
 
@@ -135,6 +141,8 @@ Todos eles têm em comum:
 - **Refrigeração**:
   - Dissipadores, coolers e fans para evitar superaquecimento, principalmente da CPU e da GPU.
 
+---
+
 ## 4. Como o computador funciona “em movimento”
 
 Vamos ver o fluxo de forma cronológica, do momento em que você aperta o botão de ligar até rodar um programa.
@@ -149,7 +157,37 @@ Vamos ver o fluxo de forma cronológica, do momento em que você aperta o botão
 
 (Detalhes de SO será visto em outro tópico.)
 
-### 4.2. Ciclo de busca-decodificação-execução (fetch-decode-execute)
+### 4.2. Conceitos Bits, Portas Lógicas e Transistores
+
+1. **Bits**:
+    - Um bit (binary digit) é a unidade mínima de informação em computação.
+    - Pode representar apenas dois valores: 0 ou 1.
+    - É a base de toda a computação.
+
+2. **Portas Lógicas**:
+    - São circuitos eletrônicos que realizam operações lógicas com bits.
+    - As principais portas lógicas são:
+        - AND (E)
+        - OR (OU)
+        - NOT (NÃO)
+        - XOR (OU exclusivo)
+        - NAND (NÃO E)
+        - NOR (NÃO OU)
+
+3. **Transistores**:
+    - São componentes eletrônicos que funcionam como chaves controladas por sinais elétricos.
+    - São a base das portas lógicas.
+    - Milhões de transistores formam uma CPU.
+
+- **Relação entre eles**:
+    - **Transistores → Portas lógicas**
+        - Ao combinar transistores em certas configurações (por exemplo, CMOS: pares de transistores tipo p e tipo n), você obtém uma porta NOT, AND, OR etc.
+    - **Portas lógicas → Circuitos mais complexos → CPU/memória**
+        - Grandes arranjos de portas lógicas implementam operações sobre bits (somar, comparar, deslocar, etc.).
+    - **Bits → Estado físico**
+        - Em última instância, o bit 0 ou 1 é apenas o estado de um conjunto de transistores (ligados ou desligados, carregados ou não, etc.).
+
+### 4.3. Ciclo de busca-decodificação-execução (fetch-decode-execute)
 
 Esse é o loop que a CPU faz o tempo todo enquanto o computador está ligado:
 
@@ -172,7 +210,7 @@ Esse é o loop que a CPU faz o tempo todo enquanto o computador está ligado:
 
 Isso acontece bilhões de vezes por segundo em CPUs modernas.
 
-### 4.3. Entrada, processamento, saída
+### 4.4. Entrada, processamento, saída
 
 Colocando em termos funcionais:
 
@@ -187,6 +225,8 @@ Colocando em termos funcionais:
 
 Enquanto isso, o sistema operacional gerencia memória, processos, acesso a disco, rede etc. (tema de outro tópico).
 
+---
+
 ## 5. Relação entre hardware e software (visão inicial)
 
 Só para amarrar com os próximos tópicos:
@@ -196,3 +236,8 @@ Só para amarrar com os próximos tópicos:
 - Linguagens de alto nível (C, Java, Python) são convertidas (compiladas ou interpretadas) em instruções que a CPU consegue executar.
 
 Nos próximos tópicos (“como os programas rodam na memória”, “como o processador funciona”, “como o SO funciona” e “compilado vs interpretado”) vamos descendo degrau por degrau dessa pilha.
+
+---
+
+## Navegação
+[[Fundamentos|<- Voltar para Fundamentos]] | [[Como os programas rodam na memória|Próximo tópico ->]]
