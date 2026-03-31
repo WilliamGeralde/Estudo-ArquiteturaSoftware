@@ -11,14 +11,10 @@
             "id": "e086fcd74ddeef22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zero_junior/fundamentos/Fundamentos.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Fundamentos"
+              "title": "Nova aba"
             }
           }
         ]
@@ -185,11 +181,23 @@
   },
   "active": "e086fcd74ddeef22",
   "lastOpenFiles": [
+    "3-senior_arquit/Sênior ao Arquiteto.md",
+    "3-senior_arquit",
+    "2-junior_senior/Júnior ao Sênior.md",
+    "2-junior_senior",
     "zero_junior/fundamentos/Como Funciona um Computador.md",
+    "1-zero_junior/fundamentos/Fundamentos.md",
+    "1-zero_junior/fundamentos/Como Funciona um Computador.md",
+    "1-zero_junior/escolha_linguagem/Escolha de Linguagem.md",
+    "1-zero_junior/Zero ao Júnior.md",
+    "1-zero_junior/fundamentos",
+    "1-zero_junior/escolha_linguagem",
+    "1-zero_junior",
     "zero_junior/fundamentos/Fundamentos.md",
-    "zero_junior/escolha_linguagem/Escolha de Linguagem.md",
-    "zero_junior/Zero ao Júnior.md",
     "Roadmap de Arquitetura de Software.md",
+    "zero_junior/Zero ao Júnior.md",
+    "programasMemoria.md",
+    "zero_junior/escolha_linguagem/Escolha de Linguagem.md",
     "junior_senior/Júnior ao Sênior.md",
     "senior_arquit/Sênior ao Arquiteto.md",
     "ROADMAP - ARQUITETURA.pdf",
@@ -200,11 +208,6 @@
     "Não confirmado 459120.crdownload",
     "zero_junior/fundamentos",
     "senior_arquit",
-    "junior_senior",
-    "zero_junior",
-    "fase3",
-    "fase2",
-    "fase1",
     "Bem-vindo.md",
     "fundamentos.md"
   ]
