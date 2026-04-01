@@ -11,6 +11,9 @@ Nesse tópico será estudado os fundamentos iniciais da computação. Desde o fu
 
 # Resumos de Vídeos
 
-- [[CS50 - "Hardware" (2017)]]
-- [[CS50 - "Programmig Languages" (2017)]]
-- [[Curso de Linux - Curso em Vídeo]]
+- [[CS50-Hardware|CS50 - "Hardware" (2017)]]
+- [[CS50-ProgrammigLanguages|CS50 - "Programmig Languages" (2017)]]
+- [[Linux-CursoEmVideo|Curso de Linux - Curso em Vídeo]]
+
+
+[[Zero ao Júnior|<- Voltar para Zero ao Júnior]] | [[Júnior ao Pleno|Próxima fase ->]]
